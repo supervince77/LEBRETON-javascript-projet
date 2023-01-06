@@ -1,0 +1,26 @@
+.bton {
+    background-color: darkgrey;
+    border-radius: 100px;
+    border: none;
+    padding: 15px 25px;
+    color: #ffffff;
+    height: fit-content;
+}
+.bton:hover{
+    background-color: crimson;
+}
+
+.bton-violet {
+    background-color: blueviolet;
+    border-radius: 99px;
+    border: none;
+    padding: 15px 25px;
+    color: violet
+}
+
+.bton-rectangle{
+    background-color: darkorange;
+    border: none;
+    padding: 15px 25px;
+    color: yellow
+}
